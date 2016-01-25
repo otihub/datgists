@@ -1,0 +1,57 @@
+
+#How to Write a Gist for the DAT
+
+##Intro
+Gist are awesome!  They help you share your knowledge and insights to your colleagues.  They can be about anything but here they will focus on either:
+- creating a specific product (i.e. How to make the Monthly Syria Program Map)
+- a specfic task or processs (i.e. how to write a Gist or how to use gdal to conver csvs into shapefiles)
+
+This gist will act as a one stop shop to get Data Analysis Team members up to speed on how they work so they can begin writing their own.  This means that you should have the technical knowledge on how to write them as well as an understanding to the standard formating and best practices we use for them.
+
+##Disclosure 
+Since these are public gists please make sure to scrape all:
+- PII
+- Filepaths to datasets
+- Specific program names
+- Any other sensitive information or materials
+
+##Markdown Basics
+Gists are written and styled in [markdown](https://en.wikipedia.org/wiki/Markdown). Markdown is a [markup language](https://en.wikipedia.org/wiki/Markup_language).  A markup language is a way *...for marking or tagging a document that indicates its logical structure (as paragraphs) and gives instructions for its layout on the page...*
+<sup>[1](http://www.merriam-webster.com/dictionary/markup%20language)</sup>
+
+We will layout some basic structure and content to have in a gist as well as go into markdown a bit, however other resources will cover markdown more indepth.
+- [github flavoured markdown](https://help.github.com/articles/github-flavored-markdown/)
+- [mastering markdown](https://guides.github.com/features/mastering-markdown/)
+
+###Text
+Text can be: 
+- **bold** by wrapping it with \*\* or \__ on either side of the text
+  - example: \*\* Rory \*\* is awesome = **Rory** is awesome.  
+- *italics* by wrapping it with \* or \_ on either side of the text
+  - example: \* Rory \* is awesome = *Rory* is awesome. 
+- one can also combine the two
+  -  example: \_\*\*Rory\*\* is awesome\_ = _Rory **is** awesome_
+- strike through text by wrapping it with with \~\~ on either side of the text (this only works on github markdown)
+  - example Rory is \~\~ not \~\~ awesome = Rory is ~~not~~ awesome
+- Code can be indicated with a \` for a small snippet and a \`\`\` for a block of code 
+
+```
+if Rory = awesome 
+    print 'Rory is awesome'
+elif Rory != awesome
+    print 'Rory sucks'
+else
+    print 'wrong'
+```
+
+###Headings
+Use \# to indicate a heading.  The more \# used in a row, the smaller the heading will be.  For example: \# > \#\# >\#\#\#
+
+###Lists
+Lists can be done one of two ways: ordered or unordered. 
+- Items in an unordered lists are marked with a \- or \* or \+ in the end they all do the same thing... make a -
+
+
+##Style
+Always start with a tile, it should explain what the Gist is all about.  Further, it should be styled at the one \# level.
+
