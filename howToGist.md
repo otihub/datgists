@@ -19,12 +19,12 @@ Since these are public gists please make sure to scrape all:
 Gists are written and styled in [markdown](https://en.wikipedia.org/wiki/Markdown). Markdown is a [markup language](https://en.wikipedia.org/wiki/Markup_language).  A markup language is a way *...for marking or tagging a document that indicates its logical structure (as paragraphs) and gives instructions for its layout on the page...*
 <sup>[1](http://www.merriam-webster.com/dictionary/markup%20language)</sup>
 
-We will layout some basic structure and content to have in a gist as well as go into markdown a bit, however other resources will cover markdown more indepth.
+We will layout some basic structure and content to have in a gist as well as go into markdown a bit, however its just the basic as there are other resources that cover markdown more indepth.
 - [github flavoured markdown](https://help.github.com/articles/github-flavored-markdown/)
 - [mastering markdown](https://guides.github.com/features/mastering-markdown/)
 
 ###Text
-Text can be: 
+There are different ways to format text: 
 - **bold** by wrapping it with \*\* or \__ on either side of the text
   - example: \*\* Rory \*\* is awesome = **Rory** is awesome.  
 - *italics* by wrapping it with \* or \_ on either side of the text
@@ -32,8 +32,12 @@ Text can be:
 - one can also combine the two
   -  example: \_\*\*Rory\*\* is awesome\_ = _Rory **is** awesome_
 - strike through text by wrapping it with with \~\~ on either side of the text (this only works on github markdown)
-  - example Rory is \~\~ not \~\~ awesome = Rory is ~~not~~ awesome
-- Code can be indicated with a \` for a small snippet and a \`\`\` for a block of code 
+  - example Rory is `~~` not `~~` awesome = Rory is ~~not~~ awesome
+
+###Code 	
+- Wrap code with \` for a small snippets
+  - example: `print Rory is awesome` 
+- Use: \`\`\`  a block of code 
 
 ```
 if Rory = awesome 
@@ -41,7 +45,7 @@ if Rory = awesome
 elif Rory != awesome
     print 'Rory sucks'
 else
-    print 'wrong'
+    print 'Rory is alright'
 ```
 
 ###Headings
@@ -50,8 +54,10 @@ Use \# to indicate a heading.  The more \# used in a row, the smaller the headin
 ###Lists
 Lists can be done one of two ways: ordered or unordered. 
 - Items in an unordered lists are marked with a \- or \* or \+ in the end they all do the same thing... make a -
+- Items in an ordered list are marked with `1., 2., 3.`
 
 
 ##Style
-Always start with a tile, it should explain what the Gist is all about.  Further, it should be styled at the one \# level.
+- Always start with a tile, it should explain what the Gist is all about.  Further, it should be styled at the one \# level.
+- Include an **Intro** section to go more in depth to what the gist is about, 
 
