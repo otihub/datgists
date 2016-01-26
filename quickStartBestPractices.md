@@ -7,7 +7,7 @@ Lets get started with writing a Gist.  Remember they should be on a specific top
 Gists are written and styled in [markdown](https://en.wikipedia.org/wiki/Markdown). Markdown is a [markup language](https://en.wikipedia.org/wiki/Markup_language).  A markup language is a way *...for marking or tagging a document that indicates its logical structure (as paragraphs) and gives instructions for its layout on the page...*
 <sup>[1](http://www.merriam-webster.com/dictionary/markup%20language)</sup>
 
-Gists can be written directly in GitHub or with a text editor on your desktop ( [Notpad\+\+]https://notepad-plus-plus.org/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [vim](http://www.vim.org/), etc...\)
+Gists can be written directly in GitHub or with a text editor on your desktop ( [Notpad\+\+](https://notepad-plus-plus.org/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [vim](http://www.vim.org/), etc...\)
 
 
 
