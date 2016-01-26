@@ -17,4 +17,3 @@ Since these are public gists please make sure to scrape all:
 - Filepaths to datasets
 - Specific program names
 - Any other sensitive information or materials
-
