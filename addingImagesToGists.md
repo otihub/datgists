@@ -1,4 +1,4 @@
-# Adding Images to Gist
+# Adding Images to a Gist
 
 ## Intro
 A picture is worth a thousands words.  So lets learn how to add an image to your Gist.
