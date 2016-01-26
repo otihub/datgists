@@ -46,10 +46,9 @@ Lists can be done one of two ways: ordered or unordered.
 - Items in an unordered lists are marked with a \- or \* or \+ in the end they all do the same thing... make a -
 - Items in an ordered list are marked with `1., 2., 3.`
 
-
 ## Style/Best Practices
 - Gist file names should be written in camel case as so `roryIsAwesome.md`
 - Always start with a tile, it should explain what the Gist is all about.  Further, it should be styled at the one \# level.
 - Include an **Intro** section to go more in depth to what the Gist is about making it clear to the reader what they will get out of it
 - Update the [Gist Index](https://github.com/otihub/datgists/edit/master/index.md) with the requisit information so people can find it later.
-- Add pictures to the `pictures` directory
+- Add all images to the `images` directory
