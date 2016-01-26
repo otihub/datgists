@@ -9,7 +9,7 @@ A Gist should be focused on one of two subjects, explaining how to:
   - Create a sepcific product ( e.g. How to make the Monthly Program Map for Country XXX)
   - How to preform a specific task or processes (How to do the *DAT Monthly Update* or how to use gdal to convert a csv to a shapefile) 
 
-Please review the *Quick Start/Best Practicies Gist* before contributing to the team's Gist repo and when you add a new one, update the gist index.
+Please review the *[Quick Start/Best Practicies Gist](https://github.com/otihub/datgists/blob/master/quickStartBestPractices.md)* before contributing to the team's Gist repo and when you add a new one, update the gist index.
 
 ##Disclosure
 Since these are public gists please make sure to scrape all:
