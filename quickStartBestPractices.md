@@ -7,47 +7,12 @@ Lets get started with writing a Gist.  Remember they should be on a specific top
 Gists are written and styled in [markdown](https://en.wikipedia.org/wiki/Markdown). Markdown is a [markup language](https://en.wikipedia.org/wiki/Markup_language).  A markup language is a way *...for marking or tagging a document that indicates its logical structure (as paragraphs) and gives instructions for its layout on the page...*
 <sup>[1](http://www.merriam-webster.com/dictionary/markup%20language)</sup>
 
-Gists can be written directly in GitHub or with a text editor on your desktop ( [Notpad\+\+](https://notepad-plus-plus.org/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [vim](http://www.vim.org/), etc...\)
+Gists can be written directly in GitHub or with a text editor on your desktop ( [Notpad\+\+](https://notepad-plus-plus.org/), [TextWrangler](http://www.barebones.com/products/textwrangler/), [vim](http://www.vim.org/), etc...\)  It is important to know how to use GitHub (and also have an account!) since we will be storing all of our Gists in a single repository.  If you need help with GitHub please refer to [GitHub Guides](https://guides.github.com/activities/hello-world/) we can also use time at a huddle to introduce it.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#How to Write a Gist for the DAT
-
-##Intro
-Gist are awesome!  They help you share your knowledge and insights to your colleagues.  They can be about anything but here they will focus on either:
-- creating a specific product (i.e. How to make the Monthly Syria Program Map)
-- a specfic task or processs (i.e. how to write a Gist or how to use gdal to conver csvs into shapefiles)
-
-This gist will act as a one stop shop to get Data Analysis Team members up to speed on how they work so they can begin writing their own.  This means that you should have the technical knowledge on how to write them as well as an understanding to the standard formating and best practices we use for them.
-
-##Disclosure 
-Since these are public gists please make sure to scrape all:
-- PII
-- Filepaths to datasets
-- Specific program names
-- Any other sensitive information or materials
-
-##Markdown Basics
-Gists are written and styled in [markdown](https://en.wikipedia.org/wiki/Markdown). Markdown is a [markup language](https://en.wikipedia.org/wiki/Markup_language).  A markup language is a way *...for marking or tagging a document that indicates its logical structure (as paragraphs) and gives instructions for its layout on the page...*
-<sup>[1](http://www.merriam-webster.com/dictionary/markup%20language)</sup>
-
-We will layout some basic structure and content to have in a gist as well as go into markdown a bit, however its just the basic as there are other resources that cover markdown more indepth.
-- [github flavoured markdown](https://help.github.com/articles/github-flavored-markdown/)
-- [mastering markdown](https://guides.github.com/features/mastering-markdown/)
+## Markdown
 
 ###Text
-There are different ways to format text: 
+Formatting text is pretty straight forward.  You wrap the next you want to make **bold**, *italic*, etc... with special charactors that tell the computer to make everything indside those characters the desired formatting.  Below are some examples:
 - **bold** by wrapping it with \*\* or \__ on either side of the text
   - example: \*\* Rory \*\* is awesome = **Rory** is awesome.  
 - *italics* by wrapping it with \* or \_ on either side of the text
