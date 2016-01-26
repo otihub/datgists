@@ -1,11 +1,13 @@
 # DAT Gist Repo
 
 ##Intro
-Gists are awesome! They help unlock all the knowledge you have and share it with your colleagues.  Going on a TDY and need someone to cover a project for you? Refer them to a gist!  Got food poisioning form Auntie B's tuna-casserole and won't be in the office for a while? Refer a member to a gist so your team-mates can continue making the beautiful maps without missing a beat.
+Gists are awesome! They help unlock knowledge siloed with individual team members and share it with colleagues. As a repository of team knowledge, it will create a more transparent and open operating environment. 
 
-A gist should be a focused document on one of two subjects explaining how to:
+Going on a TDY and need someone to cover a project for you? Refer them to a gist!  Got food poisioning form Auntie B's tuna-casserole and won't be in the office for a while? Tell the person covering you to use a gist your worte.  Someone always asking you how did you do that in ArcGIS?  Tell them to follow the gist you wrote.  This way we can continue providing the high level of support and products we have without skipping a beat!
+
+A Gist should be focused on one of two subjects, explaining how to:
   - Create a sepcific product ( e.g. How to make the Monthly Program Map for Country XXX)
-  - A specific task or processes  (How to do the *DAT Monthly Update* or how to use gdal to convert a csv to a shapefile) 
+  - How to preform a specific task or processes (How to do the *DAT Monthly Update* or how to use gdal to convert a csv to a shapefile) 
 
 Please review the *Quick Start/Best Practicies Gist* before contributing to the team's Gist repo and when you add a new one, update the gist index.
 
