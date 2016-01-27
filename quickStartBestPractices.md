@@ -52,3 +52,7 @@ Lists can be done one of two ways: ordered or unordered.
 - Include an **Intro** section to go more in depth to what the Gist is about making it clear to the reader what they will get out of it
 - Update the [Gist Index](https://github.com/otihub/datgists/edit/master/index.md) with the requisit information so people can find it later.
 - Add all images to the `images` directory
+
+## Additional Resources
+- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+- [Markdown Basics](https://help.github.com/articles/markdown-basics/)
