@@ -5,3 +5,4 @@
 |[QGIS to Web](https://github.com/otihub/datgists/blob/master/qgis2Web.md)| David | 1/27/16 | How to make webmaps using the QGIS2Web plugin for QGIS, including how to style html popups |
 |[Using PSPP to convert sav files to csv](https://gist.github.com/snurhussein/008dbe9858b12235f0d5)| Safy | 3/15/16 | How to convert SPSS files to csv format using PSPP |
 |[SYR AOC Workflow](https://github.com/otihub/datgists/blob/master/SYR_AOC_WorkFlow.md)| Chad | 4/4/2016 | Workflow for Syria Areas of Control Product |
+|[Email On Formhub For Amazon](https://gist.github.com/wuhland/8821fdd003b666449f812383cdb18882) | David | 4/11/2016 | How to set up email so that formhub will work on Amazon | 
