@@ -1,4 +1,4 @@
-#LAC Region Program/Briefing Book Maps#
+#LAC Region Program/Briefing Book Map Procedures#
 
 *This guide notes any country-specific deviations from standard program map procedures.*
 
