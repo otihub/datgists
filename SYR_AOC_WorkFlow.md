@@ -164,10 +164,13 @@ Email maps (both Syria and Syria/Iraq) to the following upon completion. **[Data
   - Erin Sawyer (SawyerEA@state.gov)
   - Christine Fellenz (FellenzCL@state.gov)
   - Stephanie Bartlett (BartlettSH@state.gov)
+- Congressional Research Service CRS: **[Data]**
+  - Christopher Blanchard (cblanchard@crs.loc.gov)
+  - Hannah Fischer (hfischer@crs.loc.gov)
 
 Listed here for easy copy paste into email:
 
-`dcha.otisyriadcteammaillist@usaid.gov, cwilliams@usaid.gov, hhanif@usaid.gov, mechr_gio@ofda.gov, rstarner@usaid.gov, wilderbf@state.gov, NunezEK@state.gov, GertinTJ@state.gov, KingDJ2@state.gov, SawyerEA@state.gov, FellenzCL@state.gov, BartlettSH@state.gov`
+`dcha.otisyriadcteammaillist@usaid.gov, cwilliams@usaid.gov, hhanif@usaid.gov, mechr_gio@ofda.gov, rstarner@usaid.gov, wilderbf@state.gov, NunezEK@state.gov, GertinTJ@state.gov, KingDJ2@state.gov, SawyerEA@state.gov, FellenzCL@state.gov, BartlettSH@state.gov, hfischer@crs.loc.gov, cblanchard@crs.loc.gov`
 
 Data currently shared with the following. Use [this doc](https://docs.google.com/a/usaid.gov/document/d/1Fo_pXdkA3N4eXwHCgK6AmEaLGhHSMPV859nDPpylF5w/edit) to track data distribution over time.
 
