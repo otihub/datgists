@@ -44,7 +44,7 @@ This is technical guidance on producing shapefiles depicting areas of influence 
   - *Abstract:* This data portrays areas in Syria controlled by various categories of armed actors according to open source intel research reports.
   - *Purpose:* This data is intended to add contextual information to reports of the crises in Syria. The data is for cartographic purposes. It is strongly recommend that this data is not used as the sole basis for making programmatic or logistical decisions.
 
-
+###Distro
 Email maps (both Syria and Syria/Iraq) to the following upon completion. **[Data]** indicates sharing data too:
 - OTI Syria DC listserv (dcha.otisyriadcteammaillist@usaid.gov)
 - Chris Williams @ DCHA Syria Task Force (cwilliams@usaid.gov)
