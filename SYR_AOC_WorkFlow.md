@@ -15,9 +15,8 @@ This is technical guidance on producing shapefiles depicting areas of influence 
 - Data comes converted from KML format so delete all the unecessary fields Except "snippet" which contains control data using the **table manager** tool or equivilent in ArcGIS.
 - Rename `snippet` column to `Control` 
 - Save data and close out of QGIS
-- Run the `Dissolve:Data Management` tool to dissolve features by Control Type.
 - Bring into ArcGIS and run the `Repair Geometry` tool to get rid of self intersections.
-
+- Run the `Dissolve:Data Management` tool to dissolve features by Control Type.
 
 ##Apply MetaData
 - Delete the metadata file created by default by ArcGIS (it should be the one with the .xml file extension.
