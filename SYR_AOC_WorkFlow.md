@@ -23,9 +23,9 @@ This is technical guidance on producing shapefiles depicting areas of influence 
 - Exit out of ArcGIS and Navigate to the AOC dataset in ArcCatalog. 
 - View description tab and click Import (ensure you are importing from ArcGIS standard), navigating to the latest AOC data that has "Share" in the file name to select its metadata, import. 
 - A few things will have to be edited in the metadata to bring it up to date. Mainly the dates. 
-  - In Details Change the Date Stamp to the Current Date 
-  - In Distribution Change Distributor > Available Dates to Current Date 
-  - In Fields Change Control/Beginning and Ending Date of Values to reflect the datas shelf life. 
+  - In Metadata:Details Change the Date Stamp to the Current Date 
+  - In Resource:Distribution Change Distributor > Available Dates to Current Date 
+  - In Resource:Fields Change Control/Beginning and Ending Date of Values to reflect the datas shelf life. 
 - Save
 
 
