@@ -8,13 +8,6 @@ For local users: [link to gist on Github](https://gist.github.com/cwlawlis802/1f
 
 This is technical guidance on producing shapefiles depicting areas of influence in Syria. There are a few steps necessary to prepare the data for sharing including aggregation and appending of metadata
 
-##Key
-- `AOI` refers to **Areas of Influence**
-- `OTIA` refers to **OTI Anywhere**
-- `Q:` refers to the **Q: Drive**
-- `YYYY` refers to the **year** e.g. 2015
-- `MM` refers to the **month** e.g. 03 for March
-- `DD` refers to the **day** e.g. 10 for the 10th
 
 ##Clean Data
 
