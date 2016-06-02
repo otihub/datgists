@@ -42,9 +42,13 @@ Email maps (both Syria and Syria/Iraq) to the following upon completion. **[Data
 - OTI Syria DC listserv (dcha.otisyriadcteammaillist@usaid.gov)
 - Chris Williams @ DCHA Syria Task Force (cwilliams@usaid.gov)
 - Hila Hanif @ OTI via DoD (hhanif@usaid.gov)
+- Macey Stapleton (mstapleton@icamprogram.com) 
+- Adam O'Brien (aobrien@usaid.gov)
 - Chris Koltalo @ OFDA GIU (mechr_gio@ofda.gov and ckoltalo@ofda.gov) **[Data]**
 - Rachel Starner @ USAID Mission in Baghdad (rstarner@usaid.gov) **[Data]**
 - Steve Gilbert @ USAID ME (stgilbert@usaid.gov) **[Data]**
+- START KMT:
+  - 	Leslie Thompson (ThompsonL2@state.gov) **[Data]**
 - State HIU: **[Data]**
   - Benson Wilder (wilderbf@state.gov)
   - Erika Nunez (NunezEK@state.gov)
@@ -59,7 +63,7 @@ Email maps (both Syria and Syria/Iraq) to the following upon completion. **[Data
 
 Listed here for easy copy paste into email:
 
-`dcha.otisyriadcteammaillist@usaid.gov, cwilliams@usaid.gov, hhanif@usaid.gov, mechr_gio@ofda.gov, rstarner@usaid.gov, stgilbert@usaid.gov, wilderbf@state.gov, NunezEK@state.gov, GertinTJ@state.gov, KingDJ2@state.gov, SawyerEA@state.gov, FellenzCL@state.gov, BartlettSH@state.gov, hfischer@crs.loc.gov, cblanchard@crs.loc.gov`
+`dcha.otisyriadcteammaillist@usaid.gov, cwilliams@usaid.gov, hhanif@usaid.gov, mechr_gio@ofda.gov, rstarner@usaid.gov, stgilbert@usaid.gov, aobrien@usaid.gov, mstapleton@icamprogram.com, ThompsonL2@state.gov, wilderbf@state.gov, NunezEK@state.gov, GertinTJ@state.gov, KingDJ2@state.gov, SawyerEA@state.gov, FellenzCL@state.gov, BartlettSH@state.gov, hfischer@crs.loc.gov, cblanchard@crs.loc.gov`
 
 Data currently shared with the following. Use [this doc](https://docs.google.com/a/usaid.gov/document/d/1Fo_pXdkA3N4eXwHCgK6AmEaLGhHSMPV859nDPpylF5w/edit) to track data distribution over time.
 
