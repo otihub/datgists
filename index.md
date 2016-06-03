@@ -9,3 +9,4 @@
 |[Useful QGIS Queries](https://github.com/otihub/datgists/blob/master/QGIS-Queries.md) | David | 4/12/2016 | Select all "wide" activities in QGIS |
 |[LAC Region Program/Briefing Book Map Procedures](https://github.com/otihub/datgists/blob/master/LAC-ProgramMaps.md) | Safy | 4/13/2016 | Guide noting country-specific deviations from standard program map procedures. |
 |[Useful One Line Commandline Commands] (https://github.com/otihub/datgists/blob/master/usefulCommandLineOneLiners.md) | Rory | 4/14/2016 | easy commands to help automate annoying chores |
+|[Illustrator: Fade to internal transparency](https://gist.github.com/wuhland/6abce8fae1050a1c898c) | David | 6/3/2016 | How to set a polygon to fade to internal transparency |
