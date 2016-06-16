@@ -10,6 +10,8 @@ Combine two or more csvs together (and only keep the header of the first file) i
 
 `cat < firstFile.csv <(tail +2 secondFile.csv) <(tail +2 thirdFile.csv) > combineOutFile.csv`
 
+Extract the first n number of lines from a `.csv` or `.tsv`.
 
+`head -n numberOfLines > path/to/inFile.csv > path/to/outFile.csv`
 
 
