@@ -19,7 +19,7 @@ So you don't cry
 - Bring back a goodie for your coworkers in DC...especially for Rory!
 - Buy a mini flag...we are trying to collect flags of all the countries we visit on TDYs
 
-## Back in the USA 	&#x1f1fa
+## Back in the USA
 - Write a trip report
   - Priotize writing it ASAP once you are back...or on the plane on the way back so you don't forget stuff
   - Share it with the DC OTI corner before sharing it with the wider office...they may be aware of sensatitves that you are not
