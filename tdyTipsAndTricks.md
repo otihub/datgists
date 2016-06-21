@@ -11,7 +11,7 @@ So you don't cry /
 - Bring data!  You never know when you are going to need to make a map.  Email yourself a copy of the admin boundaires and surrounding countries...just incase!
 - Give the Graphics team plenty of time to make any prodcuts you need
 - Organize as many meetings as you can before you head out (at a minimum a kickoff meeting).  Think if it makes sense to have them be in groups or one on one. Recommended: Meeting with SMT on first and last day in the office.
-- Ask if the OTI or IP Field corners want maps printed off the plotter...people like big printed maps in their office. Also, ask  field wants any other goodies from America (candy, etc.)
+- Ask if the OTI or IP Field corners want maps printed off the plotter...people like big printed maps in their office. Also, ask if field wants any other goodies from America (candy, etc.)
 
 ## While You are Out there
 - Take good notes!  This will help when writing your Trip Report 
