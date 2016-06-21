@@ -1,9 +1,9 @@
 # TDY Tips & Tricks
 
-Quick tips 
-At your finger tips 
-For a successful TDY
-So you don't cry
+Quick tips /
+At your finger tips /
+For a successful TDY /
+So you don't cry /
 
 ## Before you Leave
 - Get a Statement of Work (SOW).  This details what is expected of you in your time out there as an STTA (Short Term Technical Advisor)  Consult previous SOWs and make sure the OTI Field corner signs off on it.  Don't be affraid to ask for changes to it!
