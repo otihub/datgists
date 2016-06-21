@@ -10,3 +10,4 @@
 |[LAC Region Program/Briefing Book Map Procedures](https://github.com/otihub/datgists/blob/master/LAC-ProgramMaps.md) | Safy | 4/13/2016 | Guide noting country-specific deviations from standard program map procedures. |
 |[Useful One Line Commandline Commands] (https://github.com/otihub/datgists/blob/master/usefulCommandLineOneLiners.md) | Rory | 4/14/2016 | easy commands to help automate annoying chores |
 |[Illustrator: Fade to internal transparency](https://gist.github.com/wuhland/6abce8fae1050a1c898c#file-transparencyfade-md) | David | 6/3/2016 | How to set a polygon to fade to internal transparency |
+|[Georeference an Image](https://github.com/otihub/datgists/blob/master/OTI_Somalia_Georeferenced_and_Digitized_Areas_of_Control.md)| Eva | 6/21/2016 | Georeference a JPEG & Create a New Shapefile using ArcMap |
