@@ -21,7 +21,7 @@ So you don't cry /
 
 ## Back in the USA
 - Write a trip report
-  - Priotize writing it ASAP once you are back...or on the plane on the way back so you don't forget stuff
+  - Priotize writing it ASAP...or on the plane on the way back so you don't forget stuff
   - Share it with the DC OTI corner before sharing it with the wider office...they may be aware of sensatitves that you are not
 - Use your trip report to write a blog post on the Knowledge and Innovation Network
 
