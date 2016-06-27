@@ -12,3 +12,4 @@
 |[Illustrator: Fade to internal transparency](https://gist.github.com/wuhland/6abce8fae1050a1c898c#file-transparencyfade-md) | David | 6/3/2016 | How to set a polygon to fade to internal transparency |
 |[Georeference an Image](https://github.com/otihub/datgists/blob/master/OTI_Somalia_Georeferenced_and_Digitized_Areas_of_Control.md)| Eva | 6/21/2016 | Georeference a JPEG & Create a New Shapefile using ArcMap |
 |[TDY Tips & Tricks](https://github.com/otihub/datgists/blob/master/tdyTipsAndTricks.md) | Amy, Rory, Safy | 6/22/2016 | Tips and Tricks for a successful TDY...please contribute |
+|[Map Tile Links](https://github.com/otihub/datgists/blob/master/tileSets.md)| Rory | 6/28/2016 | javascript code to add tiles your maps...these are some free ones and include attribution.|
