@@ -43,7 +43,7 @@ Stamen Water Color
         basemapWC.addTo(map);
  ```
  
- Map Quest Ariel
+ Map Quest Aerial (May be obsolete) 
  ```
         var basemapMQA = L.tileLayer('http://otile1.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.jpg', {
             attribution: 'Tiles Courtesy of <a href="http://www.mapquest.com/">MapQuest</a> &mdash;Portions Courtesy NASA/JPL-Caltech and U.S. Depart. of Agriculture,Farm Service Agency',
