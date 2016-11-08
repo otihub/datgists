@@ -46,7 +46,7 @@ A screen will pop up titled, ‘Coordinate Reference System Selector’ and sele
 
  _**Google Map**_
   
-  Use your mouse to click once so a grey location icon pops up with the lat, long coordinates
+  Use your mouse to click once so a grey location icon pops up with the lat(Y/North), long(X/East) coordinates
   Note: Google Maps uses the (X/East, Y/North) order
   In the next step, input the coordinates into QGIS in this order
 
