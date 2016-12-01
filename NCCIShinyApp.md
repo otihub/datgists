@@ -4,7 +4,7 @@
 
 + Run [limerscript.R](https://github.com/snurhussein/NCCI/blob/master/limerscript.R) or copy code into console to download and consolidate new surveys
 
-+ Follow instructions in [App.R](https://github.com/snurhussein/NCCI/blob/master/app.R) to update App with new surveys
++ Follow instructions in [App.R](https://raw.githubusercontent.com/snurhussein/NCCI/master/app.R) to update App with new surveys
 
 + Configure shiny account
 
