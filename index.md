@@ -16,3 +16,5 @@
 |[Niger Hotline Shiny App](https://github.com/otihub/datgists/blob/master/NCCIShinyApp.md)|Safy| 12/1/2016 | Building and updating an interactive web app in R with data from the NCCI hotline
 |[Digital Globe and NextView](https://github.com/otihub/datgists/blob/master/nextview.md)|David| 3/6/2017 | Nextview license overview and citation guide
 |[Security Quickstart](https://github.com/otihub/datgists/blob/master/security.md)|David|3/14/2017| Some basic IT security tips
+|[WikiMapia](https://github.com/otihub/datgists/blob/master/wikimapia.md)|David|3/23/2017| How to scrape features from wikimapia and convert them to shapefiles
+
