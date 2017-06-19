@@ -18,4 +18,4 @@
 |[Security Quickstart](https://github.com/otihub/datgists/blob/master/security.md)|David|3/14/2017| Some basic IT security tips
 |[Free Resources](https://github.com/otihub/datgists/blob/master/freeResources.md)| Rory et al.| 3/23/2017 | List of resources available to OTI folks |
 |[WikiMapia](https://github.com/otihub/datgists/blob/master/wikimapia.md)|David|3/23/2017| How to scrape features from wikimapia and convert them to shapefiles
-|[WikiMapia](https://github.com/otihub/datgists/blob/master/travelFAQ.md)|Rory|06/18/2017| Frequenty Asked Travel Questions |
+|[Travel FAQ](https://github.com/otihub/datgists/blob/master/travelFAQ.md)|Rory|06/18/2017| Frequenty Asked Travel Questions |
