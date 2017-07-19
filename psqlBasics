@@ -1,0 +1,13 @@
+# Helpful Commands with PSQL
+
+## Installation 
+
+## Creating a new Database (note there are quicker ways to do this but this lists out all the steps in a clear way)
+
+1. Connect to psql `psql [name of a database]` (if you don't remember the name of one often times `template1` will exist
+2. Create the database `CREATE DATABASE [name of a new database]`
+3. Connect to the new database `\connect [name of the database]`
+4. Install postgis in the new database `CREATE EXTENSION postgis;`
+5. Check that it worked `\l` to see if the database is listed
+   
+   
