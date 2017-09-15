@@ -8,7 +8,7 @@ The Libya Monthly Program Map is due the second Monday of the Month.  It uses he
 ### PostgreSQL Setup
 The script uses the relational database PostgreSQL (psql) with it's geospatial extension, PostGIS to perform the dissolve commands and to export the data as ashapefile.  Note that you only have to do this once!
 
-1. Make sure you have psql installed on your computer (if you don't, follow [these instructions](https://gist.github.com/sgnl/609557ebacd3378f3b72) {:target="_blank"} to install via homebrew on a mac). 
+1. Make sure you have psql installed on your computer (if you don't, follow [these instructions](https://gist.github.com/sgnl/609557ebacd3378f3b72){:target="_blank"} to install via homebrew on a mac). 
 2. Login to psql (if you folloed the instructions in the above step, `psql whoami` or `psql another_database`
 3. In psql create a database for Libya:`CREATE DATABASE libya`
 4. Connect to the Libya database: `\connect libya`
