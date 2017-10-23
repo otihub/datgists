@@ -1,11 +1,11 @@
-##Syria Program Map Workflow
+## Syria Program Map Workflow
 
-###Aggregate activities by location
+### Aggregate activities by location
 In R:
 `ddply(ccc,c("displayLat","displayLng"),summarise,N=length(activityNumber),disbursed=sum(amountDisbursedPerPlace))`
 
 
-###Activity Numbers
+### Activity Numbers
 In R:  
 **National Level Initiatives**
   - Completed and Ongoing:   
